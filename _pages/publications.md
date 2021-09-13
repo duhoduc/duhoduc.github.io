@@ -25,12 +25,3 @@ application to power quality estimation". AIP Conference Proceedings. Vol. 1702.
 reduction in helicopters". In proceeding of the 1st IFAC Workshop on Advanced Control and Navigation for Autonomous
 Aerospace Vehicles (ACNAAV 2015), Jun 10 2015, Seville, Spain    
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
