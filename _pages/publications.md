@@ -7,7 +7,6 @@ author_profile: true
 
 ## Journals
 - D. Ho, G. Hendeby, M. Enqvist. "On separation of closed‑loop sensor and system faults for quadcopters". To be submitted IEEE Robotics ans Automation Letters (RA‑L), 2021.
-[[Preprint]](/files/paper1.pdf) . 
 - D. Ho, G. Hendeby, M. Enqvist. "On improvement of the Instrumental variable method in estimating nonlinear models".
 ## Conferences
 - D. Ho, G. Hendeby, M. Enqvist. "A sensor‑to‑sensor model‑based change detection approach for quadcopters". In IFAC World
